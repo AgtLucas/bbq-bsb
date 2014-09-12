@@ -1,0 +1,12 @@
+{
+  "quotes":  [{
+    "id": 1,
+    "the-quote": "Ele é louco!"
+  },{
+    "id": 2,
+    "the-quote": "Desliga a janela e abre o ar-condicionado."
+  },{
+    "id": 3,
+    "the-quote": "Vocês têm que entender o funcionamento para entender como funciona..."
+  }]
+}
